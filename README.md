@@ -19,7 +19,7 @@ You need to enter the number of days you want to predict and press "Submit".
 https://www.visualcrossing.com/weather/weather-data-services
 
 
-#Project Architecture
+# Project Architecture
 
 The project include the following steps:
 
